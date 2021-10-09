@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JSONApp</string>
+    <string-array name="Currency">
+        <item>inr</item>
+        <item>usd</item>
+        <item>aud</item>
+        <item>sar</item>
+        <item>cny</item>
+        <item>jpy</item>
+    </string-array>
+</resources>
